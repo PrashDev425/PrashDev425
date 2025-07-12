@@ -54,7 +54,7 @@
       <div class="container">
         <h1>Hello, I'm Prashant Bhandari 👋</h1>
         <h2>
-          <span class="highlight">.NET</span> Developer • <span class="highlight">React</span> Frontend Engineer • Full Stack Enthusiast
+          <span class="highlight">.NET</span> Developer <br> <span class="highlight">React</span> Frontend Engineer <br> Full Stack Enthusiast
         </h2>
         <div class="badge">APIs • UI/UX • Clean Code • Performance</div>
       </div>
